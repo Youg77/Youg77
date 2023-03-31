@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋  My name is Youg kc
 
-<!--
-**Youg77/Youg77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<strong>I am Front End developer.</strong>
 
-Here are some ideas to get you started:
+🌍  I'm based in Kathmandu, Nepal </br>
+🧠  Currently learning TypeScript </br>
+🤝  I'm open to collaborating on interesting projects as a developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<strong>Skills</strong>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,scss,bootstrap,tailwind)](https://skillicons.dev)
+
