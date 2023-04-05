@@ -8,7 +8,7 @@ I am Front End developer.
 
 
 *   🌍  I'm based in Kathmandu, Nepal
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://yougkc.vercel.app/'>Portfolio Under Dev.....</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://portfolio-r3act.netlify.app/'>Portfolio</a>
 *   🧠  Currently learning TypeScript
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
